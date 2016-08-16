@@ -1,0 +1,36 @@
+body {
+  background-color: darkslategray;
+  padding: 3%;
+  width: 100%;
+  color: mintcream;
+}
+
+.heading {
+  width: 92%;
+  height: 200px;
+  background-color: lightslategray;
+}
+
+.answer-area {
+  color: mintcream;
+}
+
+h1 {
+  display: inline-block;
+  color: lightskyblue;
+  vertical-align: middle;
+}
+
+h3 {
+  display: inline-block;
+  color: mintcream;
+  background-color: inherit;
+}
+
+img {
+  width: 45%;
+}
+
+.inputbox {
+
+}

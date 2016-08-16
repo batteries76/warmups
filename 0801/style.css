@@ -1,0 +1,49 @@
+footer {
+  margin-bottom: 0 auto;
+  margin-bottom: 0 auto;
+  background-color: green;
+  display: flex;
+}
+
+header {
+  width: 100%;
+  color: purple;
+  display: flex;
+}
+
+.low-left li {
+  float: left;
+  display: inline-block;
+  list-style-type: none;
+  position: relative;
+  padding: 10px;
+}
+
+.low-right li {
+  float: right;
+  display: inline-block;
+  list-style-type: none;
+  position: relative;
+  padding: 10px;
+}
+
+.upper-right li {
+  float: right;
+  display: inline-block;
+  list-style-type: none;
+  position: relative;
+  padding: 10px;
+}
+
+.central {
+  height: 500px;
+  position: central;
+  background-color: pink;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20%;
+}
+
+.central-lower {
+  display: inline-block;
+}

@@ -1,0 +1,38 @@
+body {
+  background-color: darkslategray;
+  padding: 50px;
+  color: olivedrab;
+  text-align: center;
+  align-content: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+h1 {
+  color: peru;
+  font-weight: normal;
+}
+
+li {
+  color: bisque;
+  list-style-type: none;
+}
+
+.price {
+  color: purple;
+}
+
+h2 {
+  color: slateblue;
+}
+
+h3 {
+color: darkkhaki;
+}
+
+p {
+  color: powderblue;
+}
+
+a {
+  color: lightslategray;
+}

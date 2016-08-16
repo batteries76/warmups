@@ -1,0 +1,35 @@
+body {
+    background-image: url("http://www.abc.net.au/news/image/6167594-3x2-940x627.jpg");
+    background-repeat: repeat;
+}
+
+h1 {
+  color: white;
+  display: block;
+  text-align: center;
+}
+
+#flipButton:hover {
+	transform: rotateY(180deg);
+}
+
+img {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  transition: all 1s ease;
+}
+
+#result {
+  color: white;
+  display: block;
+  text-align: center;
+  font-size: 50px;
+}
+
+#winner {
+  color: white;
+  display: block;
+  text-align: center;
+  font-size: 40px;
+}
